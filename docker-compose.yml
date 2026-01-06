@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   tg-headless-client:
-    image: ghcr.io/sphexi/twingate-custom-client-container:latest  
+    image: ghcr.io/twingate-solutions/twingate-custom-client-container:latest  
     privileged: true
 
     
